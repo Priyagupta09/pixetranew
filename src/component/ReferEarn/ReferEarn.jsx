@@ -43,7 +43,7 @@ const ReferEarn = () => {
         </div>
         <div className="love-box">
                 <motion.div initial={{scale:0}} animate={{scale:1}} transition={{delay: 1}} className="love-btn">
-                    <p className="blue-text"><span>💌</span> Share the love</p>
+                    <p className="blue-text"><span i>💌</span> Share the love</p>
                 </motion.div>
             </div>
     </>
